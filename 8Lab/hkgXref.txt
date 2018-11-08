@@ -1,0 +1,10 @@
+uc001aaa.3	NR_046018			DDX11L1	NR_046018		Homo sapiens DEAD/H (Asp-Glu-Ala-Asp/His) box helicase 11 like 1 (DDX11L1), non-coding RNA.		
+uc010nxr.1	AM992878			DDX11L1			Homo sapiens DEAD/H (Asp-Glu-Ala-Asp/His) box helicase 11 like 1 (DDX11L1), non-coding RNA.		
+uc010nxq.1	AM992880	B7ZGX9	B7ZGX9_HUMAN	DDX11L1			Homo sapiens DEAD/H (Asp-Glu-Ala-Asp/His) box helicase 11 like 1 (DDX11L1), non-coding RNA.		
+uc001aal.1	NM_001005484	Q8NH21	OR4F5_HUMAN	OR4F5	NM_001005484	NP_001005484	Homo sapiens olfactory receptor, family 4, subfamily F, member 5 (OR4F5), mRNA.		
+uc001aaq.2	DQ597235			DQ597235			Homo sapiens piRNA piR-59592, complete sequence.		
+uc001aar.2	DQ599768			DQ599768			Homo sapiens piRNA piR-42430, complete sequence.		
+uc001aau.3	NR_028325	C9J4L2	C9J4L2_HUMAN	LOC100132062	NR_028325		Homo sapiens uncharacterized LOC100132062 (LOC100132062), non-coding RNA.		
+uc021oeh.1	AK302889	F5H0Y1	F5H0Y1_HUMAN	LOC100133331			Homo sapiens uncharacterized LOC100133331 (LOC100133331), non-coding RNA.		
+uc009vjk.2	AK293878	C9J4L2	C9J4L2_HUMAN	LOC100133331			Homo sapiens uncharacterized LOC100133331 (LOC100133331), non-coding RNA.		
+uc021oei.1	DQ574721			LOC388312			Homo sapiens cDNA FLJ45445 fis, clone BRSSN2013696.		
